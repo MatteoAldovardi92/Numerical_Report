@@ -415,66 +415,51 @@ where $\texttt{bt}_j$ is the number of backtracking reductions, $\texttt{mod}_j$
 
 \subsubsection{Truncated Newton}
 
-\subsubsection{Truncated Newton}
-
 \subsubsection*{\textbf{Case} $n=2$}
-% Table for Problem 31, Truncated Newton, n=2
-\IfFileExists{tabelle_trunc/table-problem-31-n2-exact.tex}{
-    \input{tabelle_trunc/table-problem-31-n2-exact}
-}{
-    \input{tabelle_trunc/table-problem-31-0-exact} % fallback
-}
+\input{tabelle_trunc/table-problem-83-0-exact}
 
 \FloatBarrier
+
 \begin{figure}[H]
 \centering
 \setlength{\fboxsep}{0pt}
 \setlength{\fboxrule}{0.6pt}
+
 \begin{minipage}[t]{0.49\textwidth}
-    \centering
-    \fbox{%
-        \includegraphics[width=\dimexpr\linewidth-2\fboxrule-2\fboxsep\relax]{figures_trunc/Prob31_n2_exact_TopView}%
-    }
+  \centering
+  \fbox{%
+    \includegraphics[width=\dimexpr\linewidth-2\fboxrule-2\fboxsep\relax]{figures_trunc/Prob83/n2/Exact/P83_D2_kN_A_N_A_TopView.png}%
+  }
 \end{minipage}\hfill
 \begin{minipage}[t]{0.49\textwidth}
-    \centering
-    \fbox{%
-        \includegraphics[width=\dimexpr\linewidth-2\fboxrule-2\fboxsep\relax]{figures_trunc/Prob31_n2_exact_RateOfConv}%
-    }
+  \centering
+  \fbox{%
+    \includegraphics[width=\dimexpr\linewidth-2\fboxrule-2\fboxsep\relax]{figures_trunc/Prob83/n2/Exact/P83_D2_kN_A_N_A_Rates.png}%
+  }
 \end{minipage}
-\caption{Problem 31, Truncated Newton, exact derivatives ($n=2$): (Left) Optimization paths; (right) convergence rate.}
-\label{fig:prob31_n2_exact_trunc}
+
+\caption{(Left) Top view of the objective level sets with the optimization paths from the different starting points; (right) experimental convergence rate for converged runs.}
+\label{fig:prob83_n2_exact_trunc}
 \end{figure}
+
 \FloatBarrier
 
-\subsubsection*{\textbf{Case} $n > 2$}
+\subsubsection*{\textbf{Case} $n>2$}
 
-% --- n = 1000 ---
-\subsubsection*{Dimension $n=10^3$}
-\IfFileExists{tabelle_trunc/table-problem-31-n1000-exact.tex}{
-    \input{tabelle_trunc/table-problem-31-n1000-exact}
-}{}
-
-% --- n = 10000 ---
-\subsubsection*{Dimension $n=10^4$}
-\IfFileExists{tabelle_trunc/table-problem-31-n10000-exact.tex}{
-    \input{tabelle_trunc/table-problem-31-n10000-exact}
-}{}
-
-% --- n = 100000 ---
-\subsubsection*{Dimension $n=10^5$}
-\IfFileExists{tabelle_trunc/table-problem-31-n100000-exact.tex}{
-    \input{tabelle_trunc/table-problem-31-n100000-exact}
-}{}
+\input{tabelle_trunc/table-problem-83-0-exact}
 
 \FloatBarrier
 \begin{figure}[H]
 \centering
-\includegraphics[width=0.55\textwidth]{figures_trunc/}
-\caption{Problem 31, Truncated Newton, exact derivatives: convergence rates for large-scale instances.}
-\label{fig:prob31_large_trunc_rate}
+\includegraphics[width=0.55\textwidth]{figures_trunc/Prob83/n1000/Exact/P83_D1000_kN_A_N_A_Rates.png}
+\caption{Problem 83, Truncated Newton, exact derivatives ($n=1000$): experimental convergence rate $p_{exp}$ for converged runs.}
+\label{fig:prob83_n1000_exact_trunc_rate}
 \end{figure}
 \FloatBarrier
+
+% Results for n=10000 to be added here
+
+% Results for n=100000 to be added here
 
 
 
@@ -733,6 +718,39 @@ where $\texttt{bt}_j$ is the number of backtracking reductions, $\texttt{mod}_j$
 % -------------------------
 \subsubsection{Truncated Newton}
 
+\subsubsection*{\textbf{Mixed FD (constant $h$), $k=4$}}
+\input{tabelle_trunc/table-problem-31-0-fd}
+\FloatBarrier
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.55\textwidth]{figures_trunc/Prob31/n1000/FD/P31_D1000_k4_constant_Rates.png}
+    \caption{Problem 31, Truncated Newton, mixed FD (constant $h$, $k=4$): experimental convergence rate for converged runs ($n=1000$).}
+    \label{fig:prob31_n1000_trunc_mixed_const_k4_rate}
+\end{figure}
+\FloatBarrier
+
+\subsubsection*{\textbf{Mixed FD (constant $h$), $k=8$}}
+\input{tabelle_trunc/table-problem-31-0-fd}
+\FloatBarrier
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.55\textwidth]{figures_trunc/Prob31/n1000/FD/P31_D1000_k8_constant_Rates.png}
+    \caption{Problem 31, Truncated Newton, mixed FD (constant $h$, $k=8$): experimental convergence rate for converged runs ($n=1000$).}
+    \label{fig:prob31_n1000_trunc_mixed_const_k8_rate}
+\end{figure}
+\FloatBarrier
+
+\subsubsection*{\textbf{Mixed FD (constant $h$), $k=12$}}
+\input{tabelle_trunc/table-problem-31-0-fd}
+\FloatBarrier
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.55\textwidth]{figures_trunc/Prob31/n1000/FD/P31_D1000_k12_constant_Rates.png}
+    \caption{Problem 31, Truncated Newton, mixed FD (constant $h$, $k=12$): experimental convergence rate for converged runs ($n=1000$).}
+    \label{fig:prob31_n1000_trunc_mixed_const_k12_rate}
+\end{figure}
+\FloatBarrier
+
 \subsection{Problem 83}
 
 
@@ -903,8 +921,40 @@ where $\texttt{bt}_j$ is the number of backtracking reductions, $\texttt{mod}_j$
 }{}
 
 
-\newpage
 \subsubsection{Truncated Newton}
+
+\subsubsection*{\textbf{Mixed FD (constant $h$), $k=4$}}
+\input{tabelle_trunc/table-problem-83-0-fd}
+\FloatBarrier
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.55\textwidth]{figures_trunc/Prob83/n1000/FD/P83_D1000_k4_constant_Rates.png}
+    \caption{Problem 83, Truncated Newton, mixed FD (constant $h$, $k=4$): experimental convergence rate for converged runs ($n=1000$).}
+    \label{fig:prob83_n1000_trunc_mixed_const_k4_rate}
+\end{figure}
+\FloatBarrier
+
+\subsubsection*{\textbf{Mixed FD (constant $h$), $k=8$}}
+\input{tabelle_trunc/table-problem-83-0-fd}
+\FloatBarrier
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.55\textwidth]{figures_trunc/Prob83/n1000/FD/P83_D1000_k8_constant_Rates.png}
+    \caption{Problem 83, Truncated Newton, mixed FD (constant $h$, $k=8$): experimental convergence rate for converged runs ($n=1000$).}
+    \label{fig:prob83_n1000_trunc_mixed_const_k8_rate}
+\end{figure}
+\FloatBarrier
+
+\subsubsection*{\textbf{Mixed FD (constant $h$), $k=12$}}
+\input{tabelle_trunc/table-problem-83-0-fd}
+\FloatBarrier
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.55\textwidth]{figures_trunc/Prob83/n1000/FD/P83_D1000_k12_constant_Rates.png}
+    \caption{Problem 83, Truncated Newton, mixed FD (constant $h$, $k=12$): experimental convergence rate for converged runs ($n=1000$).}
+    \label{fig:prob83_n1000_trunc_mixed_const_k12_rate}
+\end{figure}
+\FloatBarrier
 \section{Results - Mixed (component-wise $h$)}
 
 % =========================================================
@@ -1146,6 +1196,39 @@ where $\texttt{bt}_j$ is the number of backtracking reductions, $\texttt{mod}_j$
 % Truncated Newton (not my part)
 % -------------------------
 \subsubsection{Truncated Newton}
+
+\subsubsection*{\textbf{Mixed FD (component-wise $h$), $k=4$}}
+\input{tabelle_trunc/table-problem-31-0-fd}
+\FloatBarrier
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.55\textwidth]{figures_trunc/Prob31/n1000/FD/P31_D1000_k4_component-wise_Rates.png}
+    \caption{Problem 31, Truncated Newton, mixed FD (component-wise $h$, $k=4$): experimental convergence rate for converged runs ($n=1000$).}
+    \label{fig:prob31_n1000_trunc_mixed_hprop_k4_rate}
+\end{figure}
+\FloatBarrier
+
+\subsubsection*{\textbf{Mixed FD (component-wise $h$), $k=8$}}
+\input{tabelle_trunc/table-problem-31-0-fd}
+\FloatBarrier
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.55\textwidth]{figures_trunc/Prob31/n1000/FD/P31_D1000_k8_component-wise_Rates.png}
+    \caption{Problem 31, Truncated Newton, mixed FD (component-wise $h$, $k=8$): experimental convergence rate for converged runs ($n=1000$).}
+    \label{fig:prob31_n1000_trunc_mixed_hprop_k8_rate}
+\end{figure}
+\FloatBarrier
+
+\subsubsection*{\textbf{Mixed FD (component-wise $h$), $k=12$}}
+\input{tabelle_trunc/table-problem-31-0-fd}
+\FloatBarrier
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.55\textwidth]{figures_trunc/Prob31/n1000/FD/P31_D1000_k12_component-wise_Rates.png}
+    \caption{Problem 31, Truncated Newton, mixed FD (component-wise $h$, $k=12$): experimental convergence rate for converged runs ($n=1000$).}
+    \label{fig:prob31_n1000_trunc_mixed_hprop_k12_rate}
+\end{figure}
+\FloatBarrier
 
 \subsection{Problem 83}
 
