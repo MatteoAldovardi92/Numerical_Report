@@ -41,6 +41,7 @@
 
 % Nice headers/footers + links
 \usepackage{fancyhdr}
+\setlength{\headheight}{14pt}
 \usepackage[hidelinks]{hyperref}
 
 % Paragraph look
@@ -1400,7 +1401,7 @@ where $\texttt{bt}_j$ is the number of backtracking reductions, $\texttt{mod}_j$
 }{}
 
 \subsubsection{Truncated Newton}
-
+% Figures and tables to be added for problem 83, mixed FD component-wise
 \newpage
 \section{Results - Full FD (constant $h$)}
 
@@ -1644,6 +1645,39 @@ where $\texttt{bt}_j$ is the number of backtracking reductions, $\texttt{mod}_j$
 % -------------------------
 \subsubsection{Truncated Newton}
 
+\subsubsection*{\textbf{Full FD (constant $h$), $k=4$}}
+\input{tabelle_trunc/table-problem-31-0-fd-all}
+\FloatBarrier
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.55\textwidth]{figures_trunc/Prob31/n1000/FD_all/P31_D1000_k4_constant_Rates.png}
+    \caption{Problem 31, Truncated Newton, full FD (constant $h$, $k=4$): experimental convergence rate for converged runs ($n=1000$).}
+    \label{fig:prob31_n1000_trunc_full_const_k4_rate}
+\end{figure}
+\FloatBarrier
+
+\subsubsection*{\textbf{Full FD (constant $h$), $k=8$}}
+\input{tabelle_trunc/table-problem-31-0-fd-all}
+\FloatBarrier
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.55\textwidth]{figures_trunc/Prob31/n1000/FD_all/P31_D1000_k8_constant_Rates.png}
+    \caption{Problem 31, Truncated Newton, full FD (constant $h$, $k=8$): experimental convergence rate for converged runs ($n=1000$).}
+    \label{fig:prob31_n1000_trunc_full_const_k8_rate}
+\end{figure}
+\FloatBarrier
+
+\subsubsection*{\textbf{Full FD (constant $h$), $k=12$}}
+\input{tabelle_trunc/table-problem-31-0-fd-all}
+\FloatBarrier
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.55\textwidth]{figures_trunc/Prob31/n1000/FD_all/P31_D1000_k12_constant_Rates.png}
+    \caption{Problem 31, Truncated Newton, full FD (constant $h$, $k=12$): experimental convergence rate for converged runs ($n=1000$).}
+    \label{fig:prob31_n1000_trunc_full_const_k12_rate}
+\end{figure}
+\FloatBarrier
+
 \subsection{Problem 83}
 
 
@@ -1813,8 +1847,41 @@ where $\texttt{bt}_j$ is the number of backtracking reductions, $\texttt{mod}_j$
 
 }{}
 
-\newpage
+
 \subsubsection{Truncated Newton}
+
+\subsubsection*{\textbf{Full FD (constant $h$), $k=4$}}
+\input{tabelle_trunc/table-problem-83-0-fd-all}
+\FloatBarrier
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.55\textwidth]{figures_trunc/Prob83/n1000/FD_all/P83_D1000_k4_constant_Rates.png}
+    \caption{Problem 83, Truncated Newton, full FD (constant $h$, $k=4$): experimental convergence rate for converged runs ($n=1000$).}
+    \label{fig:prob83_n1000_trunc_full_const_k4_rate}
+\end{figure}
+\FloatBarrier
+
+\subsubsection*{\textbf{Full FD (constant $h$), $k=8$}}
+\input{tabelle_trunc/table-problem-83-0-fd-all}
+\FloatBarrier
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.55\textwidth]{figures_trunc/Prob83/n1000/FD_all/P83_D1000_k8_constant_Rates.png}
+    \caption{Problem 83, Truncated Newton, full FD (constant $h$, $k=8$): experimental convergence rate for converged runs ($n=1000$).}
+    \label{fig:prob83_n1000_trunc_full_const_k8_rate}
+\end{figure}
+\FloatBarrier
+
+\subsubsection*{\textbf{Full FD (constant $h$), $k=12$}}
+\input{tabelle_trunc/table-problem-83-0-fd-all}
+\FloatBarrier
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.55\textwidth]{figures_trunc/Prob83/n1000/FD_all/P83_D1000_k12_constant_Rates.png}
+    \caption{Problem 83, Truncated Newton, full FD (constant $h$, $k=12$): experimental convergence rate for converged runs ($n=1000$).}
+    \label{fig:prob83_n1000_trunc_full_const_k12_rate}
+\end{figure}
+\FloatBarrier
 
 
 \newpage

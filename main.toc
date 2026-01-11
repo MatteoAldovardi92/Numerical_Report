@@ -47,9 +47,9 @@
 \contentsline {section}{\numberline {9}Results - Full FD (constant $h$)}{64}{section.9}%
 \contentsline {subsection}{\numberline {9.1}Problem 31}{64}{subsection.9.1}%
 \contentsline {subsubsection}{\numberline {9.1.1}Modified Newton}{64}{subsubsection.9.1.1}%
-\contentsline {subsubsection}{\numberline {9.1.2}Truncated Newton}{72}{subsubsection.9.1.2}%
-\contentsline {subsection}{\numberline {9.2}Problem 83}{72}{subsection.9.2}%
-\contentsline {subsubsection}{\numberline {9.2.1}Modified Newton}{72}{subsubsection.9.2.1}%
-\contentsline {subsubsection}{\numberline {9.2.2}Truncated Newton}{76}{subsubsection.9.2.2}%
-\contentsline {section}{\numberline {10}Analysis of the results}{77}{section.10}%
-\contentsline {section}{References}{78}{section.10}%
+\contentsline {subsubsection}{\numberline {9.1.2}Truncated Newton}{73}{subsubsection.9.1.2}%
+\contentsline {subsection}{\numberline {9.2}Problem 83}{78}{subsection.9.2}%
+\contentsline {subsubsection}{\numberline {9.2.1}Modified Newton}{78}{subsubsection.9.2.1}%
+\contentsline {subsubsection}{\numberline {9.2.2}Truncated Newton}{84}{subsubsection.9.2.2}%
+\contentsline {section}{\numberline {10}Analysis of the results}{90}{section.10}%
+\contentsline {section}{References}{91}{section.10}%
