@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.8.28)  11 JAN 2026 10:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.8.28)  11 JAN 2026 10:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -751,45 +751,45 @@ Package: blx-case-expl3 2024/03/21 v3.20 expl3 case changing code for biblatex
 ))
 \@quotelevel=\count454
 \@quotereset=\count455
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 81.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 82.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 No file main.aux.
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 81.
-LaTeX Font Info:    ... okay on input line 81.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 81.
-LaTeX Font Info:    ... okay on input line 81.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 81.
-LaTeX Font Info:    ... okay on input line 81.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 81.
-LaTeX Font Info:    ... okay on input line 81.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 81.
-LaTeX Font Info:    ... okay on input line 81.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 81.
-LaTeX Font Info:    ... okay on input line 81.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 81.
-LaTeX Font Info:    ... okay on input line 81.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 81.
-LaTeX Font Info:    ... okay on input line 81.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 81.
-LaTeX Font Info:    ... okay on input line 81.
-LaTeX Info: Redefining \microtypecontext on input line 81.
-Package microtype Info: Applying patch `item' on input line 81.
-Package microtype Info: Applying patch `toc' on input line 81.
-Package microtype Info: Applying patch `eqnum' on input line 81.
-Package microtype Info: Applying patch `footnote' on input line 81.
-Package microtype Info: Applying patch `verbatim' on input line 81.
-LaTeX Info: Redefining \microtypesetup on input line 81.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Info: Redefining \microtypecontext on input line 82.
+Package microtype Info: Applying patch `item' on input line 82.
+Package microtype Info: Applying patch `toc' on input line 82.
+Package microtype Info: Applying patch `eqnum' on input line 82.
+Package microtype Info: Applying patch `footnote' on input line 82.
+Package microtype Info: Applying patch `verbatim' on input line 82.
+LaTeX Info: Redefining \microtypesetup on input line 82.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 81.
+LaTeX Info: Redefining \showhyphens on input line 82.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -849,7 +849,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (/usr/local/texlive/2025/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring OFF on input line 81.
+Package hyperref Info: Link coloring OFF on input line 82.
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
@@ -866,30 +866,30 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (./main.bbl)
-Package biblatex Info: Reference section=0 on input line 81.
-Package biblatex Info: Reference segment=0 on input line 81.
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 84.
+Package biblatex Info: Reference section=0 on input line 82.
+Package biblatex Info: Reference segment=0 on input line 82.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 85.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 84.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 85.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 84.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 85.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 84.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 85.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 84.
+(Font)              <12> on input line 85.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 84.
+(Font)              <8> on input line 85.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 84.
+(Font)              <6> on input line 85.
 
 No file main.toc.
 \tf@toc=\write5
@@ -902,7 +902,7 @@ No file main.toc.
 {/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}]
 
 [2]
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 96.
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 97.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -911,7 +911,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 111.
+(Font)              <10.95> on input line 112.
 
 
 [3{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}] (./truncated-newton-part/truncated_newton.tex
@@ -928,31 +928,31 @@ File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 
 [7]
 
-LaTeX Font Warning: Command \small invalid in math mode on input line 182.
+LaTeX Font Warning: Command \small invalid in math mode on input line 183.
 
 
 
 [8]
 
-LaTeX Warning: Reference `eq:fd-grad-centered' on page 9 undefined on input line 202.
+LaTeX Warning: Reference `eq:fd-grad-centered' on page 9 undefined on input line 203.
 
 
-LaTeX Warning: Reference `subsubsec:fd-grad-31' on page 9 undefined on input line 217.
+LaTeX Warning: Reference `subsubsec:fd-grad-31' on page 9 undefined on input line 218.
 
 
-LaTeX Warning: Reference `eq:fd-hess-diag' on page 9 undefined on input line 220.
+LaTeX Warning: Reference `eq:fd-hess-diag' on page 9 undefined on input line 221.
 
 
-LaTeX Warning: Reference `eq:fd-hess-diag-loc' on page 9 undefined on input line 220.
+LaTeX Warning: Reference `eq:fd-hess-diag-loc' on page 9 undefined on input line 221.
 
 
-LaTeX Warning: Reference `eq:fd-hess-cross' on page 9 undefined on input line 222.
+LaTeX Warning: Reference `eq:fd-hess-cross' on page 9 undefined on input line 223.
 
 
 
 [9]
-/Users/matteoaldovardi/Desktop/NumOptReport2526/main.tex:244: Undefined control sequence.
-l.244 ...erence PDF, denoted by $\bar{x}\in\mathbb
+/Users/matteoaldovardi/Desktop/NumOptReport2526/main.tex:245: Undefined control sequence.
+l.245 ...erence PDF, denoted by $\bar{x}\in\mathbb
                                                   {R}^n$.
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -966,18 +966,18 @@ and I'll forget about whatever was undefined.
 <figures_mod/Prob31_n2_exact_TopView.png, id=103, 383.39235pt x 305.34074pt>
 File: figures_mod/Prob31_n2_exact_TopView.png Graphic file (type png)
 <use figures_mod/Prob31_n2_exact_TopView.png>
-Package pdftex.def Info: figures_mod/Prob31_n2_exact_TopView.png  used on input line 301.
+Package pdftex.def Info: figures_mod/Prob31_n2_exact_TopView.png  used on input line 302.
 (pdftex.def)             Requested size: 219.08353pt x 174.47932pt.
 <figures_mod/Prob31_n2_exact_RateOfConv.png, id=104, 377.2494pt x 307.50885pt>
 File: figures_mod/Prob31_n2_exact_RateOfConv.png Graphic file (type png)
 <use figures_mod/Prob31_n2_exact_RateOfConv.png>
-Package pdftex.def Info: figures_mod/Prob31_n2_exact_RateOfConv.png  used on input line 307.
+Package pdftex.def Info: figures_mod/Prob31_n2_exact_RateOfConv.png  used on input line 308.
 (pdftex.def)             Requested size: 219.08353pt x 178.58516pt.
  (./tables_mod/Prob31_n1000_exact_mod.tex)
 <figures_mod/Prob31_n1000_exact_RateOfConv.png, id=105, 369.2997pt x 307.50885pt>
 File: figures_mod/Prob31_n1000_exact_RateOfConv.png Graphic file (type png)
 <use figures_mod/Prob31_n1000_exact_RateOfConv.png>
-Package pdftex.def Info: figures_mod/Prob31_n1000_exact_RateOfConv.png  used on input line 323.
+Package pdftex.def Info: figures_mod/Prob31_n1000_exact_RateOfConv.png  used on input line 324.
 (pdftex.def)             Requested size: 247.25563pt x 205.88438pt.
 
 
@@ -985,7 +985,7 @@ Package pdftex.def Info: figures_mod/Prob31_n1000_exact_RateOfConv.png  used on 
 <figures_mod/Prob31_n10000_exact_RateOfConv.png, id=114, 369.2997pt x 307.50885pt>
 File: figures_mod/Prob31_n10000_exact_RateOfConv.png Graphic file (type png)
 <use figures_mod/Prob31_n10000_exact_RateOfConv.png>
-Package pdftex.def Info: figures_mod/Prob31_n10000_exact_RateOfConv.png  used on input line 334.
+Package pdftex.def Info: figures_mod/Prob31_n10000_exact_RateOfConv.png  used on input line 335.
 (pdftex.def)             Requested size: 247.25563pt x 205.88438pt.
  (./tables_mod/Prob31_n100000_exact_mod.tex)
 
@@ -993,7 +993,7 @@ Package pdftex.def Info: figures_mod/Prob31_n10000_exact_RateOfConv.png  used on
 <figures_mod/Prob31_n100000_exact_RateOfConv.png, id=121, 369.2997pt x 307.50885pt>
 File: figures_mod/Prob31_n100000_exact_RateOfConv.png Graphic file (type png)
 <use figures_mod/Prob31_n100000_exact_RateOfConv.png>
-Package pdftex.def Info: figures_mod/Prob31_n100000_exact_RateOfConv.png  used on input line 345.
+Package pdftex.def Info: figures_mod/Prob31_n100000_exact_RateOfConv.png  used on input line 346.
 (pdftex.def)             Requested size: 247.25563pt x 205.88438pt.
 
 
@@ -1001,18 +1001,18 @@ Package pdftex.def Info: figures_mod/Prob31_n100000_exact_RateOfConv.png  used o
 <figures_mod/Prob83_n2_exact_TopView.png, id=129, 375.44266pt x 305.34074pt>
 File: figures_mod/Prob83_n2_exact_TopView.png Graphic file (type png)
 <use figures_mod/Prob83_n2_exact_TopView.png>
-Package pdftex.def Info: figures_mod/Prob83_n2_exact_TopView.png  used on input line 374.
+Package pdftex.def Info: figures_mod/Prob83_n2_exact_TopView.png  used on input line 375.
 (pdftex.def)             Requested size: 219.08353pt x 178.17867pt.
 <figures_mod/Prob83_n2_exact_RateOfConv.png, id=130, 375.804pt x 307.50885pt>
 File: figures_mod/Prob83_n2_exact_RateOfConv.png Graphic file (type png)
 <use figures_mod/Prob83_n2_exact_RateOfConv.png>
-Package pdftex.def Info: figures_mod/Prob83_n2_exact_RateOfConv.png  used on input line 380.
+Package pdftex.def Info: figures_mod/Prob83_n2_exact_RateOfConv.png  used on input line 381.
 (pdftex.def)             Requested size: 219.08353pt x 179.27022pt.
  (./tables_mod/Prob83_n1000_exact_mod.tex)
 <figures_mod/Prob83_n1000_exact_RateOfConv.png, id=131, 375.804pt x 307.50885pt>
 File: figures_mod/Prob83_n1000_exact_RateOfConv.png Graphic file (type png)
 <use figures_mod/Prob83_n1000_exact_RateOfConv.png>
-Package pdftex.def Info: figures_mod/Prob83_n1000_exact_RateOfConv.png  used on input line 396.
+Package pdftex.def Info: figures_mod/Prob83_n1000_exact_RateOfConv.png  used on input line 397.
 (pdftex.def)             Requested size: 247.25563pt x 202.32301pt.
 
 
@@ -1020,7 +1020,7 @@ Package pdftex.def Info: figures_mod/Prob83_n1000_exact_RateOfConv.png  used on 
 <figures_mod/Prob83_n10000_exact_RateOfConv.png, id=139, 359.1819pt x 307.50885pt>
 File: figures_mod/Prob83_n10000_exact_RateOfConv.png Graphic file (type png)
 <use figures_mod/Prob83_n10000_exact_RateOfConv.png>
-Package pdftex.def Info: figures_mod/Prob83_n10000_exact_RateOfConv.png  used on input line 407.
+Package pdftex.def Info: figures_mod/Prob83_n10000_exact_RateOfConv.png  used on input line 408.
 (pdftex.def)             Requested size: 247.25563pt x 211.68864pt.
  (./tables_mod/Prob83_n100000_exact_mod.tex)
 
@@ -1028,12 +1028,12 @@ Package pdftex.def Info: figures_mod/Prob83_n10000_exact_RateOfConv.png  used on
 <figures_trunc/Prob83/n2/Exact/P83_D2_kN_A_N_A_TopView.png, id=146, 421.575pt x 316.0608pt>
 File: figures_trunc/Prob83/n2/Exact/P83_D2_kN_A_N_A_TopView.png Graphic file (type png)
 <use figures_trunc/Prob83/n2/Exact/P83_D2_kN_A_N_A_TopView.png>
-Package pdftex.def Info: figures_trunc/Prob83/n2/Exact/P83_D2_kN_A_N_A_TopView.png  used on input line 433.
+Package pdftex.def Info: figures_trunc/Prob83/n2/Exact/P83_D2_kN_A_N_A_TopView.png  used on input line 434.
 (pdftex.def)             Requested size: 219.08353pt x 164.25128pt.
 <figures_trunc/Prob83/n2/Exact/P83_D2_kN_A_N_A_Rates.png, id=147, 421.575pt x 316.0608pt>
 File: figures_trunc/Prob83/n2/Exact/P83_D2_kN_A_N_A_Rates.png Graphic file (type png)
 <use figures_trunc/Prob83/n2/Exact/P83_D2_kN_A_N_A_Rates.png>
-Package pdftex.def Info: figures_trunc/Prob83/n2/Exact/P83_D2_kN_A_N_A_Rates.png  used on input line 439.
+Package pdftex.def Info: figures_trunc/Prob83/n2/Exact/P83_D2_kN_A_N_A_Rates.png  used on input line 440.
 (pdftex.def)             Requested size: 219.08353pt x 164.25128pt.
 
 
@@ -1041,7 +1041,7 @@ Package pdftex.def Info: figures_trunc/Prob83/n2/Exact/P83_D2_kN_A_N_A_Rates.png
 <figures_trunc/Prob83/n1000/Exact/P83_D1000_kN_A_N_A_Rates.png, id=155, 421.575pt x 316.0608pt>
 File: figures_trunc/Prob83/n1000/Exact/P83_D1000_kN_A_N_A_Rates.png Graphic file (type png)
 <use figures_trunc/Prob83/n1000/Exact/P83_D1000_kN_A_N_A_Rates.png>
-Package pdftex.def Info: figures_trunc/Prob83/n1000/Exact/P83_D1000_kN_A_N_A_Rates.png  used on input line 455.
+Package pdftex.def Info: figures_trunc/Prob83/n1000/Exact/P83_D1000_kN_A_N_A_Rates.png  used on input line 456.
 (pdftex.def)             Requested size: 247.25563pt x 185.37468pt.
 
 
@@ -1049,36 +1049,36 @@ Package pdftex.def Info: figures_trunc/Prob83/n1000/Exact/P83_D1000_kN_A_N_A_Rat
 
 [18 <./figures_trunc/Prob83/n1000/Exact/P83_D1000_kN_A_N_A_Rates.png (PNG copy)>]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <14.4> on input line 480.
+(Font)              <14.4> on input line 481.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 480.
+(Font)              <10> on input line 481.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 480.
+(Font)              <7> on input line 481.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 480.
+(hyperref)                removing `math shift' on input line 481.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 480.
+(hyperref)                removing `math shift' on input line 481.
 
 (./tables_mod/Prob31_n2_mixedfd_const_k4_mod.tex)
 <figures_mod/Prob31_n2_mixed_fd_kG4_kH2_k4_TopView.png, id=167, 383.39235pt x 305.34074pt>
 File: figures_mod/Prob31_n2_mixed_fd_kG4_kH2_k4_TopView.png Graphic file (type png)
 <use figures_mod/Prob31_n2_mixed_fd_kG4_kH2_k4_TopView.png>
-Package pdftex.def Info: figures_mod/Prob31_n2_mixed_fd_kG4_kH2_k4_TopView.png  used on input line 525.
+Package pdftex.def Info: figures_mod/Prob31_n2_mixed_fd_kG4_kH2_k4_TopView.png  used on input line 526.
 (pdftex.def)             Requested size: 219.08353pt x 174.47932pt.
 <figures_mod/Prob31_n2_mixed_fd_k4_RateOfConv.png, id=168, 369.2997pt x 307.50885pt>
 File: figures_mod/Prob31_n2_mixed_fd_k4_RateOfConv.png Graphic file (type png)
 <use figures_mod/Prob31_n2_mixed_fd_k4_RateOfConv.png>
-Package pdftex.def Info: figures_mod/Prob31_n2_mixed_fd_k4_RateOfConv.png  used on input line 525.
+Package pdftex.def Info: figures_mod/Prob31_n2_mixed_fd_k4_RateOfConv.png  used on input line 526.
 (pdftex.def)             Requested size: 219.08353pt x 182.42339pt.
  (./tables_mod/Prob31_n1000_mixedfd_const_k4_mod.tex)
 <figures_mod/Prob31_n1000_mixed_fd_k4_RateOfConv.png, id=169, 373.99725pt x 307.50885pt>
 File: figures_mod/Prob31_n1000_mixed_fd_k4_RateOfConv.png Graphic file (type png)
 <use figures_mod/Prob31_n1000_mixed_fd_k4_RateOfConv.png>
-Package pdftex.def Info: figures_mod/Prob31_n1000_mixed_fd_k4_RateOfConv.png  used on input line 540.
+Package pdftex.def Info: figures_mod/Prob31_n1000_mixed_fd_k4_RateOfConv.png  used on input line 541.
 (pdftex.def)             Requested size: 247.25563pt x 203.30368pt.
 
 
@@ -1086,7 +1086,7 @@ Package pdftex.def Info: figures_mod/Prob31_n1000_mixed_fd_k4_RateOfConv.png  us
 <figures_mod/Prob31_n10000_mixed_fd_k4_RateOfConv.png, id=180, 377.61075pt x 307.50885pt>
 File: figures_mod/Prob31_n10000_mixed_fd_k4_RateOfConv.png Graphic file (type png)
 <use figures_mod/Prob31_n10000_mixed_fd_k4_RateOfConv.png>
-Package pdftex.def Info: figures_mod/Prob31_n10000_mixed_fd_k4_RateOfConv.png  used on input line 552.
+Package pdftex.def Info: figures_mod/Prob31_n10000_mixed_fd_k4_RateOfConv.png  used on input line 553.
 (pdftex.def)             Requested size: 247.25563pt x 201.35173pt.
  (./tables_mod/Prob31_n100000_mixedfd_const_k4_mod.tex)
 
@@ -1094,18 +1094,18 @@ Package pdftex.def Info: figures_mod/Prob31_n10000_mixed_fd_k4_RateOfConv.png  u
 <figures_mod/Prob31_n100000_mixed_fd_k4_RateOfConv.png, id=187, 381.22424pt x 307.50885pt>
 File: figures_mod/Prob31_n100000_mixed_fd_k4_RateOfConv.png Graphic file (type png)
 <use figures_mod/Prob31_n100000_mixed_fd_k4_RateOfConv.png>
-Package pdftex.def Info: figures_mod/Prob31_n100000_mixed_fd_k4_RateOfConv.png  used on input line 564.
+Package pdftex.def Info: figures_mod/Prob31_n100000_mixed_fd_k4_RateOfConv.png  used on input line 565.
 (pdftex.def)             Requested size: 247.25563pt x 199.44669pt.
  (./tables_mod/Prob31_n2_mixedfd_const_k8_mod.tex)
 <figures_mod/Prob31_n2_mixed_fd_kG8_kH4_k8_TopView.png, id=188, 383.39235pt x 305.34074pt>
 File: figures_mod/Prob31_n2_mixed_fd_kG8_kH4_k8_TopView.png Graphic file (type png)
 <use figures_mod/Prob31_n2_mixed_fd_kG8_kH4_k8_TopView.png>
-Package pdftex.def Info: figures_mod/Prob31_n2_mixed_fd_kG8_kH4_k8_TopView.png  used on input line 600.
+Package pdftex.def Info: figures_mod/Prob31_n2_mixed_fd_kG8_kH4_k8_TopView.png  used on input line 601.
 (pdftex.def)             Requested size: 219.08353pt x 174.47932pt.
 <figures_mod/Prob31_n2_mixed_fd_k8_RateOfConv.png, id=189, 377.2494pt x 307.50885pt>
 File: figures_mod/Prob31_n2_mixed_fd_k8_RateOfConv.png Graphic file (type png)
 <use figures_mod/Prob31_n2_mixed_fd_k8_RateOfConv.png>
-Package pdftex.def Info: figures_mod/Prob31_n2_mixed_fd_k8_RateOfConv.png  used on input line 600.
+Package pdftex.def Info: figures_mod/Prob31_n2_mixed_fd_k8_RateOfConv.png  used on input line 601.
 (pdftex.def)             Requested size: 219.08353pt x 178.58516pt.
 
 
@@ -1113,7 +1113,7 @@ Package pdftex.def Info: figures_mod/Prob31_n2_mixed_fd_k8_RateOfConv.png  used 
 <figures_mod/Prob31_n1000_mixed_fd_k8_RateOfConv.png, id=195, 380.50156pt x 307.50885pt>
 File: figures_mod/Prob31_n1000_mixed_fd_k8_RateOfConv.png Graphic file (type png)
 <use figures_mod/Prob31_n1000_mixed_fd_k8_RateOfConv.png>
-Package pdftex.def Info: figures_mod/Prob31_n1000_mixed_fd_k8_RateOfConv.png  used on input line 615.
+Package pdftex.def Info: figures_mod/Prob31_n1000_mixed_fd_k8_RateOfConv.png  used on input line 616.
 (pdftex.def)             Requested size: 247.25563pt x 199.82207pt.
  (./tables_mod/Prob31_n10000_mixedfd_const_k8_mod.tex)
 
@@ -1121,13 +1121,13 @@ Package pdftex.def Info: figures_mod/Prob31_n1000_mixed_fd_k8_RateOfConv.png  us
 <figures_mod/Prob31_n10000_mixed_fd_k8_RateOfConv.png, id=202, 384.11505pt x 307.50885pt>
 File: figures_mod/Prob31_n10000_mixed_fd_k8_RateOfConv.png Graphic file (type png)
 <use figures_mod/Prob31_n10000_mixed_fd_k8_RateOfConv.png>
-Package pdftex.def Info: figures_mod/Prob31_n10000_mixed_fd_k8_RateOfConv.png  used on input line 627.
+Package pdftex.def Info: figures_mod/Prob31_n10000_mixed_fd_k8_RateOfConv.png  used on input line 628.
 (pdftex.def)             Requested size: 247.25563pt x 197.94519pt.
  (./tables_mod/Prob31_n100000_mixedfd_const_k8_mod.tex)
 <figures_mod/Prob31_n100000_mixed_fd_k8_RateOfConv.png, id=203, 381.22424pt x 307.50885pt>
 File: figures_mod/Prob31_n100000_mixed_fd_k8_RateOfConv.png Graphic file (type png)
 <use figures_mod/Prob31_n100000_mixed_fd_k8_RateOfConv.png>
-Package pdftex.def Info: figures_mod/Prob31_n100000_mixed_fd_k8_RateOfConv.png  used on input line 639.
+Package pdftex.def Info: figures_mod/Prob31_n100000_mixed_fd_k8_RateOfConv.png  used on input line 640.
 (pdftex.def)             Requested size: 247.25563pt x 199.44669pt.
 
 
@@ -1135,12 +1135,12 @@ Package pdftex.def Info: figures_mod/Prob31_n100000_mixed_fd_k8_RateOfConv.png  
 <figures_mod/Prob31_n2_mixed_fd_kG12_kH6_k12_TopView.png, id=209, 383.39235pt x 305.34074pt>
 File: figures_mod/Prob31_n2_mixed_fd_kG12_kH6_k12_TopView.png Graphic file (type png)
 <use figures_mod/Prob31_n2_mixed_fd_kG12_kH6_k12_TopView.png>
-Package pdftex.def Info: figures_mod/Prob31_n2_mixed_fd_kG12_kH6_k12_TopView.png  used on input line 675.
+Package pdftex.def Info: figures_mod/Prob31_n2_mixed_fd_kG12_kH6_k12_TopView.png  used on input line 676.
 (pdftex.def)             Requested size: 219.08353pt x 174.47932pt.
 <figures_mod/Prob31_n2_mixed_fd_k12_RateOfConv.png, id=210, 377.2494pt x 307.50885pt>
 File: figures_mod/Prob31_n2_mixed_fd_k12_RateOfConv.png Graphic file (type png)
 <use figures_mod/Prob31_n2_mixed_fd_k12_RateOfConv.png>
-Package pdftex.def Info: figures_mod/Prob31_n2_mixed_fd_k12_RateOfConv.png  used on input line 675.
+Package pdftex.def Info: figures_mod/Prob31_n2_mixed_fd_k12_RateOfConv.png  used on input line 676.
 (pdftex.def)             Requested size: 219.08353pt x 178.58516pt.
  (./tables_mod/Prob31_n1000_mixedfd_const_k12_mod.tex)
 
@@ -1148,13 +1148,13 @@ Package pdftex.def Info: figures_mod/Prob31_n2_mixed_fd_k12_RateOfConv.png  used
 <figures_mod/Prob31_n1000_mixed_fd_k12_RateOfConv.png, id=217, 384.11505pt x 307.50885pt>
 File: figures_mod/Prob31_n1000_mixed_fd_k12_RateOfConv.png Graphic file (type png)
 <use figures_mod/Prob31_n1000_mixed_fd_k12_RateOfConv.png>
-Package pdftex.def Info: figures_mod/Prob31_n1000_mixed_fd_k12_RateOfConv.png  used on input line 690.
+Package pdftex.def Info: figures_mod/Prob31_n1000_mixed_fd_k12_RateOfConv.png  used on input line 691.
 (pdftex.def)             Requested size: 247.25563pt x 197.94519pt.
  (./tables_mod/Prob31_n10000_mixedfd_const_k12_mod.tex)
 <figures_mod/Prob31_n10000_mixed_fd_k12_RateOfConv.png, id=218, 387.72855pt x 307.50885pt>
 File: figures_mod/Prob31_n10000_mixed_fd_k12_RateOfConv.png Graphic file (type png)
 <use figures_mod/Prob31_n10000_mixed_fd_k12_RateOfConv.png>
-Package pdftex.def Info: figures_mod/Prob31_n10000_mixed_fd_k12_RateOfConv.png  used on input line 702.
+Package pdftex.def Info: figures_mod/Prob31_n10000_mixed_fd_k12_RateOfConv.png  used on input line 703.
 (pdftex.def)             Requested size: 247.25563pt x 196.10115pt.
 
 
@@ -1162,7 +1162,7 @@ Package pdftex.def Info: figures_mod/Prob31_n10000_mixed_fd_k12_RateOfConv.png  
 <figures_mod/Prob31_n100000_mixed_fd_k12_RateOfConv.png, id=225, 384.83775pt x 307.50885pt>
 File: figures_mod/Prob31_n100000_mixed_fd_k12_RateOfConv.png Graphic file (type png)
 <use figures_mod/Prob31_n100000_mixed_fd_k12_RateOfConv.png>
-Package pdftex.def Info: figures_mod/Prob31_n100000_mixed_fd_k12_RateOfConv.png  used on input line 714.
+Package pdftex.def Info: figures_mod/Prob31_n100000_mixed_fd_k12_RateOfConv.png  used on input line 715.
 (pdftex.def)             Requested size: 247.25563pt x 197.57451pt.
  (./tabelle_trunc/table-problem-31-0-fd.tex)
 
@@ -1177,7 +1177,7 @@ Overfull \vbox (874.38316pt too high) has occurred while \output is active []
 <figures_trunc/Prob31/n1000/FD/P31_D1000_k4_constant_Rates.png, id=242, 421.575pt x 316.0608pt>
 File: figures_trunc/Prob31/n1000/FD/P31_D1000_k4_constant_Rates.png Graphic file (type png)
 <use figures_trunc/Prob31/n1000/FD/P31_D1000_k4_constant_Rates.png>
-Package pdftex.def Info: figures_trunc/Prob31/n1000/FD/P31_D1000_k4_constant_Rates.png  used on input line 727.
+Package pdftex.def Info: figures_trunc/Prob31/n1000/FD/P31_D1000_k4_constant_Rates.png  used on input line 728.
 (pdftex.def)             Requested size: 247.25563pt x 185.37468pt.
  (./tabelle_trunc/table-problem-31-0-fd.tex)
 
@@ -1190,7 +1190,7 @@ Overfull \vbox (853.85191pt too high) has occurred while \output is active []
 <figures_trunc/Prob31/n1000/FD/P31_D1000_k8_constant_Rates.png, id=253, 421.575pt x 316.0608pt>
 File: figures_trunc/Prob31/n1000/FD/P31_D1000_k8_constant_Rates.png Graphic file (type png)
 <use figures_trunc/Prob31/n1000/FD/P31_D1000_k8_constant_Rates.png>
-Package pdftex.def Info: figures_trunc/Prob31/n1000/FD/P31_D1000_k8_constant_Rates.png  used on input line 738.
+Package pdftex.def Info: figures_trunc/Prob31/n1000/FD/P31_D1000_k8_constant_Rates.png  used on input line 739.
 (pdftex.def)             Requested size: 247.25563pt x 185.37468pt.
  (./tabelle_trunc/table-problem-31-0-fd.tex)
 
@@ -1203,18 +1203,18 @@ Overfull \vbox (853.85191pt too high) has occurred while \output is active []
 <figures_trunc/Prob31/n1000/FD/P31_D1000_k12_constant_Rates.png, id=265, 421.575pt x 316.0608pt>
 File: figures_trunc/Prob31/n1000/FD/P31_D1000_k12_constant_Rates.png Graphic file (type png)
 <use figures_trunc/Prob31/n1000/FD/P31_D1000_k12_constant_Rates.png>
-Package pdftex.def Info: figures_trunc/Prob31/n1000/FD/P31_D1000_k12_constant_Rates.png  used on input line 749.
+Package pdftex.def Info: figures_trunc/Prob31/n1000/FD/P31_D1000_k12_constant_Rates.png  used on input line 750.
 (pdftex.def)             Requested size: 247.25563pt x 185.37468pt.
  (./tables_mod/Prob83_n2_mixedfd_const_k4_mod.tex)
 <figures_mod/Prob83_n2_mixed_fd_kG4_kH2_k4_TopView.png, id=266, 375.44266pt x 305.34074pt>
 File: figures_mod/Prob83_n2_mixed_fd_kG4_kH2_k4_TopView.png Graphic file (type png)
 <use figures_mod/Prob83_n2_mixed_fd_kG4_kH2_k4_TopView.png>
-Package pdftex.def Info: figures_mod/Prob83_n2_mixed_fd_kG4_kH2_k4_TopView.png  used on input line 796.
+Package pdftex.def Info: figures_mod/Prob83_n2_mixed_fd_kG4_kH2_k4_TopView.png  used on input line 797.
 (pdftex.def)             Requested size: 219.08353pt x 178.17867pt.
 <figures_mod/Prob83_n2_mixed_fd_k4_RateOfConv.png, id=267, 369.2997pt x 307.50885pt>
 File: figures_mod/Prob83_n2_mixed_fd_k4_RateOfConv.png Graphic file (type png)
 <use figures_mod/Prob83_n2_mixed_fd_k4_RateOfConv.png>
-Package pdftex.def Info: figures_mod/Prob83_n2_mixed_fd_k4_RateOfConv.png  used on input line 796.
+Package pdftex.def Info: figures_mod/Prob83_n2_mixed_fd_k4_RateOfConv.png  used on input line 797.
 (pdftex.def)             Requested size: 219.08353pt x 182.42339pt.
 
 
@@ -1224,12 +1224,12 @@ Package pdftex.def Info: figures_mod/Prob83_n2_mixed_fd_k4_RateOfConv.png  used 
 <figures_mod/Prob83_n2_mixed_fd_kG8_kH4_k8_TopView.png, id=280, 375.44266pt x 305.34074pt>
 File: figures_mod/Prob83_n2_mixed_fd_kG8_kH4_k8_TopView.png Graphic file (type png)
 <use figures_mod/Prob83_n2_mixed_fd_kG8_kH4_k8_TopView.png>
-Package pdftex.def Info: figures_mod/Prob83_n2_mixed_fd_kG8_kH4_k8_TopView.png  used on input line 850.
+Package pdftex.def Info: figures_mod/Prob83_n2_mixed_fd_kG8_kH4_k8_TopView.png  used on input line 851.
 (pdftex.def)             Requested size: 219.08353pt x 178.17867pt.
 <figures_mod/Prob83_n2_mixed_fd_k8_RateOfConv.png, id=281, 375.804pt x 307.50885pt>
 File: figures_mod/Prob83_n2_mixed_fd_k8_RateOfConv.png Graphic file (type png)
 <use figures_mod/Prob83_n2_mixed_fd_k8_RateOfConv.png>
-Package pdftex.def Info: figures_mod/Prob83_n2_mixed_fd_k8_RateOfConv.png  used on input line 850.
+Package pdftex.def Info: figures_mod/Prob83_n2_mixed_fd_k8_RateOfConv.png  used on input line 851.
 (pdftex.def)             Requested size: 219.08353pt x 179.27022pt.
  (./tables_mod/Prob83_n1000_mixedfd_const_k8_mod.tex) (./tables_mod/Prob83_n10000_mixedfd_const_k8_mod.tex)
 
@@ -1237,12 +1237,12 @@ Package pdftex.def Info: figures_mod/Prob83_n2_mixed_fd_k8_RateOfConv.png  used 
 <figures_mod/Prob83_n2_mixed_fd_kG12_kH6_k12_TopView.png, id=287, 375.44266pt x 305.34074pt>
 File: figures_mod/Prob83_n2_mixed_fd_kG12_kH6_k12_TopView.png Graphic file (type png)
 <use figures_mod/Prob83_n2_mixed_fd_kG12_kH6_k12_TopView.png>
-Package pdftex.def Info: figures_mod/Prob83_n2_mixed_fd_kG12_kH6_k12_TopView.png  used on input line 904.
+Package pdftex.def Info: figures_mod/Prob83_n2_mixed_fd_kG12_kH6_k12_TopView.png  used on input line 905.
 (pdftex.def)             Requested size: 219.08353pt x 178.17867pt.
 <figures_mod/Prob83_n2_mixed_fd_k12_RateOfConv.png, id=288, 375.804pt x 307.50885pt>
 File: figures_mod/Prob83_n2_mixed_fd_k12_RateOfConv.png Graphic file (type png)
 <use figures_mod/Prob83_n2_mixed_fd_k12_RateOfConv.png>
-Package pdftex.def Info: figures_mod/Prob83_n2_mixed_fd_k12_RateOfConv.png  used on input line 904.
+Package pdftex.def Info: figures_mod/Prob83_n2_mixed_fd_k12_RateOfConv.png  used on input line 905.
 (pdftex.def)             Requested size: 219.08353pt x 179.27022pt.
  (./tables_mod/Prob83_n1000_mixedfd_const_k12_mod.tex)
 
@@ -1259,7 +1259,7 @@ Overfull \vbox (874.38316pt too high) has occurred while \output is active []
 <figures_trunc/Prob83/n1000/FD/P83_D1000_k4_constant_Rates.png, id=310, 421.575pt x 316.0608pt>
 File: figures_trunc/Prob83/n1000/FD/P83_D1000_k4_constant_Rates.png Graphic file (type png)
 <use figures_trunc/Prob83/n1000/FD/P83_D1000_k4_constant_Rates.png>
-Package pdftex.def Info: figures_trunc/Prob83/n1000/FD/P83_D1000_k4_constant_Rates.png  used on input line 932.
+Package pdftex.def Info: figures_trunc/Prob83/n1000/FD/P83_D1000_k4_constant_Rates.png  used on input line 933.
 (pdftex.def)             Requested size: 247.25563pt x 185.37468pt.
  (./tabelle_trunc/table-problem-83-0-fd.tex)
 
@@ -1272,7 +1272,7 @@ Overfull \vbox (853.85191pt too high) has occurred while \output is active []
 <figures_trunc/Prob83/n1000/FD/P83_D1000_k8_constant_Rates.png, id=321, 421.575pt x 316.0608pt>
 File: figures_trunc/Prob83/n1000/FD/P83_D1000_k8_constant_Rates.png Graphic file (type png)
 <use figures_trunc/Prob83/n1000/FD/P83_D1000_k8_constant_Rates.png>
-Package pdftex.def Info: figures_trunc/Prob83/n1000/FD/P83_D1000_k8_constant_Rates.png  used on input line 943.
+Package pdftex.def Info: figures_trunc/Prob83/n1000/FD/P83_D1000_k8_constant_Rates.png  used on input line 944.
 (pdftex.def)             Requested size: 247.25563pt x 185.37468pt.
  (./tabelle_trunc/table-problem-83-0-fd.tex)
 
@@ -1285,27 +1285,27 @@ Overfull \vbox (853.85191pt too high) has occurred while \output is active []
 <figures_trunc/Prob83/n1000/FD/P83_D1000_k12_constant_Rates.png, id=333, 421.575pt x 316.0608pt>
 File: figures_trunc/Prob83/n1000/FD/P83_D1000_k12_constant_Rates.png Graphic file (type png)
 <use figures_trunc/Prob83/n1000/FD/P83_D1000_k12_constant_Rates.png>
-Package pdftex.def Info: figures_trunc/Prob83/n1000/FD/P83_D1000_k12_constant_Rates.png  used on input line 954.
+Package pdftex.def Info: figures_trunc/Prob83/n1000/FD/P83_D1000_k12_constant_Rates.png  used on input line 955.
 (pdftex.def)             Requested size: 247.25563pt x 185.37468pt.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 959.
+(hyperref)                removing `math shift' on input line 960.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 959.
+(hyperref)                removing `math shift' on input line 960.
 
 (./tables_mod/Prob31_n2_mixedfd_hprop_k4_mod.tex)
 <figures_mod/Prob31_n2_mixed_fd_h_prop_kG4_kH2_k4_TopView.png, id=334, 383.39235pt x 305.34074pt>
 File: figures_mod/Prob31_n2_mixed_fd_h_prop_kG4_kH2_k4_TopView.png Graphic file (type png)
 <use figures_mod/Prob31_n2_mixed_fd_h_prop_kG4_kH2_k4_TopView.png>
-Package pdftex.def Info: figures_mod/Prob31_n2_mixed_fd_h_prop_kG4_kH2_k4_TopView.png  used on input line 1004.
+Package pdftex.def Info: figures_mod/Prob31_n2_mixed_fd_h_prop_kG4_kH2_k4_TopView.png  used on input line 1005.
 (pdftex.def)             Requested size: 219.08353pt x 174.47932pt.
 <figures_mod/Prob31_n2_mixed_fd_h_prop_k4_RateOfConv.png, id=335, 385.1991pt x 307.50885pt>
 File: figures_mod/Prob31_n2_mixed_fd_h_prop_k4_RateOfConv.png Graphic file (type png)
 <use figures_mod/Prob31_n2_mixed_fd_h_prop_k4_RateOfConv.png>
-Package pdftex.def Info: figures_mod/Prob31_n2_mixed_fd_h_prop_k4_RateOfConv.png  used on input line 1004.
+Package pdftex.def Info: figures_mod/Prob31_n2_mixed_fd_h_prop_k4_RateOfConv.png  used on input line 1005.
 (pdftex.def)             Requested size: 219.08353pt x 174.8971pt.
 
 
@@ -1313,7 +1313,7 @@ Package pdftex.def Info: figures_mod/Prob31_n2_mixed_fd_h_prop_k4_RateOfConv.png
 <figures_mod/Prob31_n1000_mixed_fd_h_prop_k4_RateOfConv.png, id=344, 396.40096pt x 307.50885pt>
 File: figures_mod/Prob31_n1000_mixed_fd_h_prop_k4_RateOfConv.png Graphic file (type png)
 <use figures_mod/Prob31_n1000_mixed_fd_h_prop_k4_RateOfConv.png>
-Package pdftex.def Info: figures_mod/Prob31_n1000_mixed_fd_h_prop_k4_RateOfConv.png  used on input line 1019.
+Package pdftex.def Info: figures_mod/Prob31_n1000_mixed_fd_h_prop_k4_RateOfConv.png  used on input line 1020.
 (pdftex.def)             Requested size: 247.25563pt x 191.81248pt.
  (./tables_mod/Prob31_n10000_mixedfd_hprop_k4_mod.tex)
 
@@ -1321,13 +1321,13 @@ Package pdftex.def Info: figures_mod/Prob31_n1000_mixed_fd_h_prop_k4_RateOfConv.
 <figures_mod/Prob31_n10000_mixed_fd_h_prop_k4_RateOfConv.png, id=351, 400.01445pt x 307.50885pt>
 File: figures_mod/Prob31_n10000_mixed_fd_h_prop_k4_RateOfConv.png Graphic file (type png)
 <use figures_mod/Prob31_n10000_mixed_fd_h_prop_k4_RateOfConv.png>
-Package pdftex.def Info: figures_mod/Prob31_n10000_mixed_fd_h_prop_k4_RateOfConv.png  used on input line 1031.
+Package pdftex.def Info: figures_mod/Prob31_n10000_mixed_fd_h_prop_k4_RateOfConv.png  used on input line 1032.
 (pdftex.def)             Requested size: 247.25563pt x 190.08105pt.
  (./tables_mod/Prob31_n100000_mixedfd_hprop_k4_mod.tex)
 <figures_mod/Prob31_n100000_mixed_fd_h_prop_k4_RateOfConv.png, id=352, 403.9893pt x 307.50885pt>
 File: figures_mod/Prob31_n100000_mixed_fd_h_prop_k4_RateOfConv.png Graphic file (type png)
 <use figures_mod/Prob31_n100000_mixed_fd_h_prop_k4_RateOfConv.png>
-Package pdftex.def Info: figures_mod/Prob31_n100000_mixed_fd_h_prop_k4_RateOfConv.png  used on input line 1043.
+Package pdftex.def Info: figures_mod/Prob31_n100000_mixed_fd_h_prop_k4_RateOfConv.png  used on input line 1044.
 (pdftex.def)             Requested size: 247.25563pt x 188.20418pt.
 
 
@@ -1335,12 +1335,12 @@ Package pdftex.def Info: figures_mod/Prob31_n100000_mixed_fd_h_prop_k4_RateOfCon
 <figures_mod/Prob31_n2_mixed_fd_h_prop_kG8_kH4_k8_TopView.png, id=358, 383.39235pt x 305.34074pt>
 File: figures_mod/Prob31_n2_mixed_fd_h_prop_kG8_kH4_k8_TopView.png Graphic file (type png)
 <use figures_mod/Prob31_n2_mixed_fd_h_prop_kG8_kH4_k8_TopView.png>
-Package pdftex.def Info: figures_mod/Prob31_n2_mixed_fd_h_prop_kG8_kH4_k8_TopView.png  used on input line 1079.
+Package pdftex.def Info: figures_mod/Prob31_n2_mixed_fd_h_prop_kG8_kH4_k8_TopView.png  used on input line 1080.
 (pdftex.def)             Requested size: 219.08353pt x 174.47932pt.
 <figures_mod/Prob31_n2_mixed_fd_h_prop_k8_RateOfConv.png, id=359, 395.67825pt x 307.50885pt>
 File: figures_mod/Prob31_n2_mixed_fd_h_prop_k8_RateOfConv.png Graphic file (type png)
 <use figures_mod/Prob31_n2_mixed_fd_h_prop_k8_RateOfConv.png>
-Package pdftex.def Info: figures_mod/Prob31_n2_mixed_fd_h_prop_k8_RateOfConv.png  used on input line 1079.
+Package pdftex.def Info: figures_mod/Prob31_n2_mixed_fd_h_prop_k8_RateOfConv.png  used on input line 1080.
 (pdftex.def)             Requested size: 219.08353pt x 170.26588pt.
  (./tables_mod/Prob31_n1000_mixedfd_hprop_k8_mod.tex)
 
@@ -1348,13 +1348,13 @@ Package pdftex.def Info: figures_mod/Prob31_n2_mixed_fd_h_prop_k8_RateOfConv.png
 <figures_mod/Prob31_n1000_mixed_fd_h_prop_k8_RateOfConv.png, id=366, 402.90524pt x 307.50885pt>
 File: figures_mod/Prob31_n1000_mixed_fd_h_prop_k8_RateOfConv.png Graphic file (type png)
 <use figures_mod/Prob31_n1000_mixed_fd_h_prop_k8_RateOfConv.png>
-Package pdftex.def Info: figures_mod/Prob31_n1000_mixed_fd_h_prop_k8_RateOfConv.png  used on input line 1094.
+Package pdftex.def Info: figures_mod/Prob31_n1000_mixed_fd_h_prop_k8_RateOfConv.png  used on input line 1095.
 (pdftex.def)             Requested size: 247.25563pt x 188.71562pt.
  (./tables_mod/Prob31_n10000_mixedfd_hprop_k8_mod.tex)
 <figures_mod/Prob31_n10000_mixed_fd_h_prop_k8_RateOfConv.png, id=367, 406.51875pt x 307.50885pt>
 File: figures_mod/Prob31_n10000_mixed_fd_h_prop_k8_RateOfConv.png Graphic file (type png)
 <use figures_mod/Prob31_n10000_mixed_fd_h_prop_k8_RateOfConv.png>
-Package pdftex.def Info: figures_mod/Prob31_n10000_mixed_fd_h_prop_k8_RateOfConv.png  used on input line 1106.
+Package pdftex.def Info: figures_mod/Prob31_n10000_mixed_fd_h_prop_k8_RateOfConv.png  used on input line 1107.
 (pdftex.def)             Requested size: 247.25563pt x 187.03581pt.
 
 
@@ -1362,7 +1362,7 @@ Package pdftex.def Info: figures_mod/Prob31_n10000_mixed_fd_h_prop_k8_RateOfConv
 <figures_mod/Prob31_n100000_mixed_fd_h_prop_k8_RateOfConv.png, id=373, 403.9893pt x 307.50885pt>
 File: figures_mod/Prob31_n100000_mixed_fd_h_prop_k8_RateOfConv.png Graphic file (type png)
 <use figures_mod/Prob31_n100000_mixed_fd_h_prop_k8_RateOfConv.png>
-Package pdftex.def Info: figures_mod/Prob31_n100000_mixed_fd_h_prop_k8_RateOfConv.png  used on input line 1118.
+Package pdftex.def Info: figures_mod/Prob31_n100000_mixed_fd_h_prop_k8_RateOfConv.png  used on input line 1119.
 (pdftex.def)             Requested size: 247.25563pt x 188.20418pt.
  (./tables_mod/Prob31_n2_mixedfd_hprop_k12_mod.tex)
 
@@ -1370,18 +1370,18 @@ Package pdftex.def Info: figures_mod/Prob31_n100000_mixed_fd_h_prop_k8_RateOfCon
 <figures_mod/Prob31_n2_mixed_fd_h_prop_kG12_kH6_k12_TopView.png, id=381, 383.39235pt x 305.34074pt>
 File: figures_mod/Prob31_n2_mixed_fd_h_prop_kG12_kH6_k12_TopView.png Graphic file (type png)
 <use figures_mod/Prob31_n2_mixed_fd_h_prop_kG12_kH6_k12_TopView.png>
-Package pdftex.def Info: figures_mod/Prob31_n2_mixed_fd_h_prop_kG12_kH6_k12_TopView.png  used on input line 1154.
+Package pdftex.def Info: figures_mod/Prob31_n2_mixed_fd_h_prop_kG12_kH6_k12_TopView.png  used on input line 1155.
 (pdftex.def)             Requested size: 219.08353pt x 174.47932pt.
 <figures_mod/Prob31_n2_mixed_fd_h_prop_k12_RateOfConv.png, id=382, 399.6531pt x 307.50885pt>
 File: figures_mod/Prob31_n2_mixed_fd_h_prop_k12_RateOfConv.png Graphic file (type png)
 <use figures_mod/Prob31_n2_mixed_fd_h_prop_k12_RateOfConv.png>
-Package pdftex.def Info: figures_mod/Prob31_n2_mixed_fd_h_prop_k12_RateOfConv.png  used on input line 1154.
+Package pdftex.def Info: figures_mod/Prob31_n2_mixed_fd_h_prop_k12_RateOfConv.png  used on input line 1155.
 (pdftex.def)             Requested size: 219.08353pt x 168.572pt.
  (./tables_mod/Prob31_n1000_mixedfd_hprop_k12_mod.tex)
 <figures_mod/Prob31_n1000_mixed_fd_h_prop_k12_RateOfConv.png, id=383, 406.51875pt x 307.50885pt>
 File: figures_mod/Prob31_n1000_mixed_fd_h_prop_k12_RateOfConv.png Graphic file (type png)
 <use figures_mod/Prob31_n1000_mixed_fd_h_prop_k12_RateOfConv.png>
-Package pdftex.def Info: figures_mod/Prob31_n1000_mixed_fd_h_prop_k12_RateOfConv.png  used on input line 1169.
+Package pdftex.def Info: figures_mod/Prob31_n1000_mixed_fd_h_prop_k12_RateOfConv.png  used on input line 1170.
 (pdftex.def)             Requested size: 247.25563pt x 187.03581pt.
 
 
@@ -1389,7 +1389,7 @@ Package pdftex.def Info: figures_mod/Prob31_n1000_mixed_fd_h_prop_k12_RateOfConv
 <figures_mod/Prob31_n10000_mixed_fd_h_prop_k12_RateOfConv.png, id=389, 410.4936pt x 307.50885pt>
 File: figures_mod/Prob31_n10000_mixed_fd_h_prop_k12_RateOfConv.png Graphic file (type png)
 <use figures_mod/Prob31_n10000_mixed_fd_h_prop_k12_RateOfConv.png>
-Package pdftex.def Info: figures_mod/Prob31_n10000_mixed_fd_h_prop_k12_RateOfConv.png  used on input line 1181.
+Package pdftex.def Info: figures_mod/Prob31_n10000_mixed_fd_h_prop_k12_RateOfConv.png  used on input line 1182.
 (pdftex.def)             Requested size: 247.25563pt x 185.22462pt.
  (./tables_mod/Prob31_n100000_mixedfd_hprop_k12_mod.tex)
 
@@ -1397,7 +1397,7 @@ Package pdftex.def Info: figures_mod/Prob31_n10000_mixed_fd_h_prop_k12_RateOfCon
 <figures_mod/Prob31_n100000_mixed_fd_h_prop_k12_RateOfConv.png, id=396, 407.24146pt x 307.50885pt>
 File: figures_mod/Prob31_n100000_mixed_fd_h_prop_k12_RateOfConv.png Graphic file (type png)
 <use figures_mod/Prob31_n100000_mixed_fd_h_prop_k12_RateOfConv.png>
-Package pdftex.def Info: figures_mod/Prob31_n100000_mixed_fd_h_prop_k12_RateOfConv.png  used on input line 1193.
+Package pdftex.def Info: figures_mod/Prob31_n100000_mixed_fd_h_prop_k12_RateOfConv.png  used on input line 1194.
 (pdftex.def)             Requested size: 247.25563pt x 186.70267pt.
  (./tabelle_trunc/table-problem-31-0-fd.tex)
 
@@ -1412,7 +1412,7 @@ Overfull \vbox (874.38316pt too high) has occurred while \output is active []
 <figures_trunc/Prob31/n1000/FD/P31_D1000_k4_component-wise_Rates.png, id=412, 421.575pt x 316.0608pt>
 File: figures_trunc/Prob31/n1000/FD/P31_D1000_k4_component-wise_Rates.png Graphic file (type png)
 <use figures_trunc/Prob31/n1000/FD/P31_D1000_k4_component-wise_Rates.png>
-Package pdftex.def Info: figures_trunc/Prob31/n1000/FD/P31_D1000_k4_component-wise_Rates.png  used on input line 1206.
+Package pdftex.def Info: figures_trunc/Prob31/n1000/FD/P31_D1000_k4_component-wise_Rates.png  used on input line 1207.
 (pdftex.def)             Requested size: 247.25563pt x 185.37468pt.
  (./tabelle_trunc/table-problem-31-0-fd.tex)
 
@@ -1425,7 +1425,7 @@ Overfull \vbox (853.85191pt too high) has occurred while \output is active []
 <figures_trunc/Prob31/n1000/FD/P31_D1000_k8_component-wise_Rates.png, id=424, 421.575pt x 316.0608pt>
 File: figures_trunc/Prob31/n1000/FD/P31_D1000_k8_component-wise_Rates.png Graphic file (type png)
 <use figures_trunc/Prob31/n1000/FD/P31_D1000_k8_component-wise_Rates.png>
-Package pdftex.def Info: figures_trunc/Prob31/n1000/FD/P31_D1000_k8_component-wise_Rates.png  used on input line 1217.
+Package pdftex.def Info: figures_trunc/Prob31/n1000/FD/P31_D1000_k8_component-wise_Rates.png  used on input line 1218.
 (pdftex.def)             Requested size: 247.25563pt x 185.37468pt.
  (./tabelle_trunc/table-problem-31-0-fd.tex)
 
@@ -1438,18 +1438,18 @@ Overfull \vbox (853.85191pt too high) has occurred while \output is active []
 <figures_trunc/Prob31/n1000/FD/P31_D1000_k12_component-wise_Rates.png, id=435, 421.575pt x 316.0608pt>
 File: figures_trunc/Prob31/n1000/FD/P31_D1000_k12_component-wise_Rates.png Graphic file (type png)
 <use figures_trunc/Prob31/n1000/FD/P31_D1000_k12_component-wise_Rates.png>
-Package pdftex.def Info: figures_trunc/Prob31/n1000/FD/P31_D1000_k12_component-wise_Rates.png  used on input line 1228.
+Package pdftex.def Info: figures_trunc/Prob31/n1000/FD/P31_D1000_k12_component-wise_Rates.png  used on input line 1229.
 (pdftex.def)             Requested size: 247.25563pt x 185.37468pt.
  (./tables_mod/Prob83_n2_mixedfd_hprop_k4_mod.tex)
 <figures_mod/Prob83_n2_mixed_fd_h_prop_kG4_kH2_k4_TopView.png, id=436, 375.44266pt x 305.34074pt>
 File: figures_mod/Prob83_n2_mixed_fd_h_prop_kG4_kH2_k4_TopView.png Graphic file (type png)
 <use figures_mod/Prob83_n2_mixed_fd_h_prop_kG4_kH2_k4_TopView.png>
-Package pdftex.def Info: figures_mod/Prob83_n2_mixed_fd_h_prop_kG4_kH2_k4_TopView.png  used on input line 1275.
+Package pdftex.def Info: figures_mod/Prob83_n2_mixed_fd_h_prop_kG4_kH2_k4_TopView.png  used on input line 1276.
 (pdftex.def)             Requested size: 219.08353pt x 178.17867pt.
 <figures_mod/Prob83_n2_mixed_fd_h_prop_k4_RateOfConv.png, id=437, 385.1991pt x 307.50885pt>
 File: figures_mod/Prob83_n2_mixed_fd_h_prop_k4_RateOfConv.png Graphic file (type png)
 <use figures_mod/Prob83_n2_mixed_fd_h_prop_k4_RateOfConv.png>
-Package pdftex.def Info: figures_mod/Prob83_n2_mixed_fd_h_prop_k4_RateOfConv.png  used on input line 1275.
+Package pdftex.def Info: figures_mod/Prob83_n2_mixed_fd_h_prop_k4_RateOfConv.png  used on input line 1276.
 (pdftex.def)             Requested size: 219.08353pt x 174.8971pt.
  (./tables_mod/Prob83_n1000_mixedfd_hprop_k4_mod.tex)
 
@@ -1457,12 +1457,12 @@ Package pdftex.def Info: figures_mod/Prob83_n2_mixed_fd_h_prop_k4_RateOfConv.png
 <figures_mod/Prob83_n2_mixed_fd_h_prop_kG8_kH4_k8_TopView.png, id=446, 375.44266pt x 305.34074pt>
 File: figures_mod/Prob83_n2_mixed_fd_h_prop_kG8_kH4_k8_TopView.png Graphic file (type png)
 <use figures_mod/Prob83_n2_mixed_fd_h_prop_kG8_kH4_k8_TopView.png>
-Package pdftex.def Info: figures_mod/Prob83_n2_mixed_fd_h_prop_kG8_kH4_k8_TopView.png  used on input line 1329.
+Package pdftex.def Info: figures_mod/Prob83_n2_mixed_fd_h_prop_kG8_kH4_k8_TopView.png  used on input line 1330.
 (pdftex.def)             Requested size: 219.08353pt x 178.17867pt.
 <figures_mod/Prob83_n2_mixed_fd_h_prop_k8_RateOfConv.png, id=447, 391.7034pt x 307.50885pt>
 File: figures_mod/Prob83_n2_mixed_fd_h_prop_k8_RateOfConv.png Graphic file (type png)
 <use figures_mod/Prob83_n2_mixed_fd_h_prop_k8_RateOfConv.png>
-Package pdftex.def Info: figures_mod/Prob83_n2_mixed_fd_h_prop_k8_RateOfConv.png  used on input line 1329.
+Package pdftex.def Info: figures_mod/Prob83_n2_mixed_fd_h_prop_k8_RateOfConv.png  used on input line 1330.
 (pdftex.def)             Requested size: 219.08353pt x 171.99731pt.
 
 
@@ -1472,12 +1472,12 @@ Package pdftex.def Info: figures_mod/Prob83_n2_mixed_fd_h_prop_k8_RateOfConv.png
 <figures_mod/Prob83_n2_mixed_fd_h_prop_kG12_kH6_k12_TopView.png, id=459, 375.44266pt x 305.34074pt>
 File: figures_mod/Prob83_n2_mixed_fd_h_prop_kG12_kH6_k12_TopView.png Graphic file (type png)
 <use figures_mod/Prob83_n2_mixed_fd_h_prop_kG12_kH6_k12_TopView.png>
-Package pdftex.def Info: figures_mod/Prob83_n2_mixed_fd_h_prop_kG12_kH6_k12_TopView.png  used on input line 1383.
+Package pdftex.def Info: figures_mod/Prob83_n2_mixed_fd_h_prop_kG12_kH6_k12_TopView.png  used on input line 1384.
 (pdftex.def)             Requested size: 219.08353pt x 178.17867pt.
 <figures_mod/Prob83_n2_mixed_fd_h_prop_k12_RateOfConv.png, id=460, 395.67825pt x 307.50885pt>
 File: figures_mod/Prob83_n2_mixed_fd_h_prop_k12_RateOfConv.png Graphic file (type png)
 <use figures_mod/Prob83_n2_mixed_fd_h_prop_k12_RateOfConv.png>
-Package pdftex.def Info: figures_mod/Prob83_n2_mixed_fd_h_prop_k12_RateOfConv.png  used on input line 1383.
+Package pdftex.def Info: figures_mod/Prob83_n2_mixed_fd_h_prop_k12_RateOfConv.png  used on input line 1384.
 (pdftex.def)             Requested size: 219.08353pt x 170.26588pt.
  (./tables_mod/Prob83_n1000_mixedfd_hprop_k12_mod.tex) (./tables_mod/Prob83_n10000_mixedfd_hprop_k12_mod.tex) (./tables_mod/Prob83_n100000_mixedfd_hprop_k12_mod.tex)
 
@@ -1486,28 +1486,28 @@ Package pdftex.def Info: figures_mod/Prob83_n2_mixed_fd_h_prop_k12_RateOfConv.pn
 [63]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 1406.
+(hyperref)                removing `math shift' on input line 1407.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 1406.
+(hyperref)                removing `math shift' on input line 1407.
 
 (./tables_mod/Prob31_n2_fullfd_const_k4_mod.tex)
 <figures_mod/Prob31_n2_full_fd_kG4_kH2_k4_TopView.png, id=471, 383.39235pt x 305.34074pt>
 File: figures_mod/Prob31_n2_full_fd_kG4_kH2_k4_TopView.png Graphic file (type png)
 <use figures_mod/Prob31_n2_full_fd_kG4_kH2_k4_TopView.png>
-Package pdftex.def Info: figures_mod/Prob31_n2_full_fd_kG4_kH2_k4_TopView.png  used on input line 1451.
+Package pdftex.def Info: figures_mod/Prob31_n2_full_fd_kG4_kH2_k4_TopView.png  used on input line 1452.
 (pdftex.def)             Requested size: 219.08353pt x 174.47932pt.
 <figures_mod/Prob31_n2_full_fd_k4_RateOfConv.png, id=472, 369.2997pt x 307.50885pt>
 File: figures_mod/Prob31_n2_full_fd_k4_RateOfConv.png Graphic file (type png)
 <use figures_mod/Prob31_n2_full_fd_k4_RateOfConv.png>
-Package pdftex.def Info: figures_mod/Prob31_n2_full_fd_k4_RateOfConv.png  used on input line 1451.
+Package pdftex.def Info: figures_mod/Prob31_n2_full_fd_k4_RateOfConv.png  used on input line 1452.
 (pdftex.def)             Requested size: 219.08353pt x 182.42339pt.
  (./tables_mod/Prob31_n1000_fullfd_const_k4_mod.tex)
 <figures_mod/Prob31_n1000_full_fd_k4_RateOfConv.png, id=473, 369.2997pt x 307.50885pt>
 File: figures_mod/Prob31_n1000_full_fd_k4_RateOfConv.png Graphic file (type png)
 <use figures_mod/Prob31_n1000_full_fd_k4_RateOfConv.png>
-Package pdftex.def Info: figures_mod/Prob31_n1000_full_fd_k4_RateOfConv.png  used on input line 1466.
+Package pdftex.def Info: figures_mod/Prob31_n1000_full_fd_k4_RateOfConv.png  used on input line 1467.
 (pdftex.def)             Requested size: 247.25563pt x 205.88438pt.
 
 
@@ -1515,7 +1515,7 @@ Package pdftex.def Info: figures_mod/Prob31_n1000_full_fd_k4_RateOfConv.png  use
 <figures_mod/Prob31_n10000_full_fd_k4_RateOfConv.png, id=482, 369.2997pt x 307.50885pt>
 File: figures_mod/Prob31_n10000_full_fd_k4_RateOfConv.png Graphic file (type png)
 <use figures_mod/Prob31_n10000_full_fd_k4_RateOfConv.png>
-Package pdftex.def Info: figures_mod/Prob31_n10000_full_fd_k4_RateOfConv.png  used on input line 1478.
+Package pdftex.def Info: figures_mod/Prob31_n10000_full_fd_k4_RateOfConv.png  used on input line 1479.
 (pdftex.def)             Requested size: 247.25563pt x 205.88438pt.
  (./tables_mod/Prob31_n100000_fullfd_const_k4_mod.tex)
 
@@ -1523,18 +1523,18 @@ Package pdftex.def Info: figures_mod/Prob31_n10000_full_fd_k4_RateOfConv.png  us
 <figures_mod/Prob31_n100000_full_fd_k4_RateOfConv.png, id=489, 372.1905pt x 307.50885pt>
 File: figures_mod/Prob31_n100000_full_fd_k4_RateOfConv.png Graphic file (type png)
 <use figures_mod/Prob31_n100000_full_fd_k4_RateOfConv.png>
-Package pdftex.def Info: figures_mod/Prob31_n100000_full_fd_k4_RateOfConv.png  used on input line 1490.
+Package pdftex.def Info: figures_mod/Prob31_n100000_full_fd_k4_RateOfConv.png  used on input line 1491.
 (pdftex.def)             Requested size: 247.25563pt x 204.28435pt.
  (./tables_mod/Prob31_n2_fullfd_const_k8_mod.tex)
 <figures_mod/Prob31_n2_full_fd_kG8_kH4_k8_TopView.png, id=490, 383.39235pt x 305.34074pt>
 File: figures_mod/Prob31_n2_full_fd_kG8_kH4_k8_TopView.png Graphic file (type png)
 <use figures_mod/Prob31_n2_full_fd_kG8_kH4_k8_TopView.png>
-Package pdftex.def Info: figures_mod/Prob31_n2_full_fd_kG8_kH4_k8_TopView.png  used on input line 1526.
+Package pdftex.def Info: figures_mod/Prob31_n2_full_fd_kG8_kH4_k8_TopView.png  used on input line 1527.
 (pdftex.def)             Requested size: 219.08353pt x 174.47932pt.
 <figures_mod/Prob31_n2_full_fd_k8_RateOfConv.png, id=491, 377.2494pt x 307.50885pt>
 File: figures_mod/Prob31_n2_full_fd_k8_RateOfConv.png Graphic file (type png)
 <use figures_mod/Prob31_n2_full_fd_k8_RateOfConv.png>
-Package pdftex.def Info: figures_mod/Prob31_n2_full_fd_k8_RateOfConv.png  used on input line 1526.
+Package pdftex.def Info: figures_mod/Prob31_n2_full_fd_k8_RateOfConv.png  used on input line 1527.
 (pdftex.def)             Requested size: 219.08353pt x 178.58516pt.
 
 
@@ -1542,7 +1542,7 @@ Package pdftex.def Info: figures_mod/Prob31_n2_full_fd_k8_RateOfConv.png  used o
 <figures_mod/Prob31_n1000_full_fd_k8_RateOfConv.png, id=497, 375.804pt x 307.50885pt>
 File: figures_mod/Prob31_n1000_full_fd_k8_RateOfConv.png Graphic file (type png)
 <use figures_mod/Prob31_n1000_full_fd_k8_RateOfConv.png>
-Package pdftex.def Info: figures_mod/Prob31_n1000_full_fd_k8_RateOfConv.png  used on input line 1541.
+Package pdftex.def Info: figures_mod/Prob31_n1000_full_fd_k8_RateOfConv.png  used on input line 1542.
 (pdftex.def)             Requested size: 247.25563pt x 202.32301pt.
  (./tables_mod/Prob31_n10000_fullfd_const_k8_mod.tex)
 
@@ -1550,13 +1550,13 @@ Package pdftex.def Info: figures_mod/Prob31_n1000_full_fd_k8_RateOfConv.png  use
 <figures_mod/Prob31_n10000_full_fd_k8_RateOfConv.png, id=505, 375.804pt x 307.50885pt>
 File: figures_mod/Prob31_n10000_full_fd_k8_RateOfConv.png Graphic file (type png)
 <use figures_mod/Prob31_n10000_full_fd_k8_RateOfConv.png>
-Package pdftex.def Info: figures_mod/Prob31_n10000_full_fd_k8_RateOfConv.png  used on input line 1553.
+Package pdftex.def Info: figures_mod/Prob31_n10000_full_fd_k8_RateOfConv.png  used on input line 1554.
 (pdftex.def)             Requested size: 247.25563pt x 202.32301pt.
  (./tables_mod/Prob31_n100000_fullfd_const_k8_mod.tex)
 <figures_mod/Prob31_n100000_full_fd_k8_RateOfConv.png, id=506, 372.1905pt x 307.50885pt>
 File: figures_mod/Prob31_n100000_full_fd_k8_RateOfConv.png Graphic file (type png)
 <use figures_mod/Prob31_n100000_full_fd_k8_RateOfConv.png>
-Package pdftex.def Info: figures_mod/Prob31_n100000_full_fd_k8_RateOfConv.png  used on input line 1565.
+Package pdftex.def Info: figures_mod/Prob31_n100000_full_fd_k8_RateOfConv.png  used on input line 1566.
 (pdftex.def)             Requested size: 247.25563pt x 204.28435pt.
 
 
@@ -1564,12 +1564,12 @@ Package pdftex.def Info: figures_mod/Prob31_n100000_full_fd_k8_RateOfConv.png  u
 <figures_mod/Prob31_n2_full_fd_kG12_kH6_k12_TopView.png, id=512, 383.39235pt x 305.34074pt>
 File: figures_mod/Prob31_n2_full_fd_kG12_kH6_k12_TopView.png Graphic file (type png)
 <use figures_mod/Prob31_n2_full_fd_kG12_kH6_k12_TopView.png>
-Package pdftex.def Info: figures_mod/Prob31_n2_full_fd_kG12_kH6_k12_TopView.png  used on input line 1601.
+Package pdftex.def Info: figures_mod/Prob31_n2_full_fd_kG12_kH6_k12_TopView.png  used on input line 1602.
 (pdftex.def)             Requested size: 219.08353pt x 174.47932pt.
 <figures_mod/Prob31_n2_full_fd_k12_RateOfConv.png, id=513, 369.2997pt x 307.50885pt>
 File: figures_mod/Prob31_n2_full_fd_k12_RateOfConv.png Graphic file (type png)
 <use figures_mod/Prob31_n2_full_fd_k12_RateOfConv.png>
-Package pdftex.def Info: figures_mod/Prob31_n2_full_fd_k12_RateOfConv.png  used on input line 1601.
+Package pdftex.def Info: figures_mod/Prob31_n2_full_fd_k12_RateOfConv.png  used on input line 1602.
 (pdftex.def)             Requested size: 219.08353pt x 182.42339pt.
  (./tables_mod/Prob31_n1000_fullfd_const_k12_mod.tex)
 
@@ -1577,13 +1577,13 @@ Package pdftex.def Info: figures_mod/Prob31_n2_full_fd_k12_RateOfConv.png  used 
 <figures_mod/Prob31_n1000_full_fd_k12_RateOfConv.png, id=520, 369.2997pt x 307.50885pt>
 File: figures_mod/Prob31_n1000_full_fd_k12_RateOfConv.png Graphic file (type png)
 <use figures_mod/Prob31_n1000_full_fd_k12_RateOfConv.png>
-Package pdftex.def Info: figures_mod/Prob31_n1000_full_fd_k12_RateOfConv.png  used on input line 1616.
+Package pdftex.def Info: figures_mod/Prob31_n1000_full_fd_k12_RateOfConv.png  used on input line 1617.
 (pdftex.def)             Requested size: 247.25563pt x 205.88438pt.
  (./tables_mod/Prob31_n10000_fullfd_const_k12_mod.tex)
 <figures_mod/Prob31_n10000_full_fd_k12_RateOfConv.png, id=521, 372.1905pt x 307.50885pt>
 File: figures_mod/Prob31_n10000_full_fd_k12_RateOfConv.png Graphic file (type png)
 <use figures_mod/Prob31_n10000_full_fd_k12_RateOfConv.png>
-Package pdftex.def Info: figures_mod/Prob31_n10000_full_fd_k12_RateOfConv.png  used on input line 1628.
+Package pdftex.def Info: figures_mod/Prob31_n10000_full_fd_k12_RateOfConv.png  used on input line 1629.
 (pdftex.def)             Requested size: 247.25563pt x 204.28435pt.
 
 
@@ -1591,7 +1591,7 @@ Package pdftex.def Info: figures_mod/Prob31_n10000_full_fd_k12_RateOfConv.png  u
 <figures_mod/Prob31_n100000_full_fd_k12_RateOfConv.png, id=527, 375.804pt x 307.50885pt>
 File: figures_mod/Prob31_n100000_full_fd_k12_RateOfConv.png Graphic file (type png)
 <use figures_mod/Prob31_n100000_full_fd_k12_RateOfConv.png>
-Package pdftex.def Info: figures_mod/Prob31_n100000_full_fd_k12_RateOfConv.png  used on input line 1640.
+Package pdftex.def Info: figures_mod/Prob31_n100000_full_fd_k12_RateOfConv.png  used on input line 1641.
 (pdftex.def)             Requested size: 247.25563pt x 202.32301pt.
  (./tabelle_trunc/table-problem-31-0-fd-all.tex
 ./tabelle_trunc/table-problem-31-0-fd-all.tex:4: Missing $ inserted.
@@ -1623,7 +1623,7 @@ Overfull \vbox (876.08664pt too high) has occurred while \output is active []
 <figures_trunc/Prob31/n1000/FD_all/P31_D1000_k4_constant_Rates.png, id=545, 421.575pt x 316.0608pt>
 File: figures_trunc/Prob31/n1000/FD_all/P31_D1000_k4_constant_Rates.png Graphic file (type png)
 <use figures_trunc/Prob31/n1000/FD_all/P31_D1000_k4_constant_Rates.png>
-Package pdftex.def Info: figures_trunc/Prob31/n1000/FD_all/P31_D1000_k4_constant_Rates.png  used on input line 1653.
+Package pdftex.def Info: figures_trunc/Prob31/n1000/FD_all/P31_D1000_k4_constant_Rates.png  used on input line 1654.
 (pdftex.def)             Requested size: 247.25563pt x 185.37468pt.
  (./tabelle_trunc/table-problem-31-0-fd-all.tex
 ./tabelle_trunc/table-problem-31-0-fd-all.tex:4: Missing $ inserted.
@@ -1653,7 +1653,7 @@ Overfull \vbox (855.55539pt too high) has occurred while \output is active []
 <figures_trunc/Prob31/n1000/FD_all/P31_D1000_k8_constant_Rates.png, id=556, 421.575pt x 316.0608pt>
 File: figures_trunc/Prob31/n1000/FD_all/P31_D1000_k8_constant_Rates.png Graphic file (type png)
 <use figures_trunc/Prob31/n1000/FD_all/P31_D1000_k8_constant_Rates.png>
-Package pdftex.def Info: figures_trunc/Prob31/n1000/FD_all/P31_D1000_k8_constant_Rates.png  used on input line 1664.
+Package pdftex.def Info: figures_trunc/Prob31/n1000/FD_all/P31_D1000_k8_constant_Rates.png  used on input line 1665.
 (pdftex.def)             Requested size: 247.25563pt x 185.37468pt.
  (./tabelle_trunc/table-problem-31-0-fd-all.tex
 ./tabelle_trunc/table-problem-31-0-fd-all.tex:4: Missing $ inserted.
@@ -1683,18 +1683,18 @@ Overfull \vbox (855.55539pt too high) has occurred while \output is active []
 <figures_trunc/Prob31/n1000/FD_all/P31_D1000_k12_constant_Rates.png, id=567, 421.575pt x 316.0608pt>
 File: figures_trunc/Prob31/n1000/FD_all/P31_D1000_k12_constant_Rates.png Graphic file (type png)
 <use figures_trunc/Prob31/n1000/FD_all/P31_D1000_k12_constant_Rates.png>
-Package pdftex.def Info: figures_trunc/Prob31/n1000/FD_all/P31_D1000_k12_constant_Rates.png  used on input line 1675.
+Package pdftex.def Info: figures_trunc/Prob31/n1000/FD_all/P31_D1000_k12_constant_Rates.png  used on input line 1676.
 (pdftex.def)             Requested size: 247.25563pt x 185.37468pt.
  (./tables_mod/Prob83_n2_fullfd_const_k4_mod.tex)
 <figures_mod/Prob83_n2_full_fd_kG4_kH2_k4_TopView.png, id=568, 375.44266pt x 305.34074pt>
 File: figures_mod/Prob83_n2_full_fd_kG4_kH2_k4_TopView.png Graphic file (type png)
 <use figures_mod/Prob83_n2_full_fd_kG4_kH2_k4_TopView.png>
-Package pdftex.def Info: figures_mod/Prob83_n2_full_fd_kG4_kH2_k4_TopView.png  used on input line 1722.
+Package pdftex.def Info: figures_mod/Prob83_n2_full_fd_kG4_kH2_k4_TopView.png  used on input line 1723.
 (pdftex.def)             Requested size: 219.08353pt x 178.17867pt.
 <figures_mod/Prob83_n2_full_fd_k4_RateOfConv.png, id=569, 369.2997pt x 307.50885pt>
 File: figures_mod/Prob83_n2_full_fd_k4_RateOfConv.png Graphic file (type png)
 <use figures_mod/Prob83_n2_full_fd_k4_RateOfConv.png>
-Package pdftex.def Info: figures_mod/Prob83_n2_full_fd_k4_RateOfConv.png  used on input line 1722.
+Package pdftex.def Info: figures_mod/Prob83_n2_full_fd_k4_RateOfConv.png  used on input line 1723.
 (pdftex.def)             Requested size: 219.08353pt x 182.42339pt.
 
 
@@ -1704,12 +1704,12 @@ Package pdftex.def Info: figures_mod/Prob83_n2_full_fd_k4_RateOfConv.png  used o
 <figures_mod/Prob83_n2_full_fd_kG8_kH4_k8_TopView.png, id=583, 375.44266pt x 305.34074pt>
 File: figures_mod/Prob83_n2_full_fd_kG8_kH4_k8_TopView.png Graphic file (type png)
 <use figures_mod/Prob83_n2_full_fd_kG8_kH4_k8_TopView.png>
-Package pdftex.def Info: figures_mod/Prob83_n2_full_fd_kG8_kH4_k8_TopView.png  used on input line 1776.
+Package pdftex.def Info: figures_mod/Prob83_n2_full_fd_kG8_kH4_k8_TopView.png  used on input line 1777.
 (pdftex.def)             Requested size: 219.08353pt x 178.17867pt.
 <figures_mod/Prob83_n2_full_fd_k8_RateOfConv.png, id=584, 375.804pt x 307.50885pt>
 File: figures_mod/Prob83_n2_full_fd_k8_RateOfConv.png Graphic file (type png)
 <use figures_mod/Prob83_n2_full_fd_k8_RateOfConv.png>
-Package pdftex.def Info: figures_mod/Prob83_n2_full_fd_k8_RateOfConv.png  used on input line 1776.
+Package pdftex.def Info: figures_mod/Prob83_n2_full_fd_k8_RateOfConv.png  used on input line 1777.
 (pdftex.def)             Requested size: 219.08353pt x 179.27022pt.
  (./tables_mod/Prob83_n1000_fullfd_const_k8_mod.tex) (./tables_mod/Prob83_n10000_fullfd_const_k8_mod.tex)
 
@@ -1717,12 +1717,12 @@ Package pdftex.def Info: figures_mod/Prob83_n2_full_fd_k8_RateOfConv.png  used o
 <figures_mod/Prob83_n2_full_fd_kG12_kH6_k12_TopView.png, id=590, 375.44266pt x 305.34074pt>
 File: figures_mod/Prob83_n2_full_fd_kG12_kH6_k12_TopView.png Graphic file (type png)
 <use figures_mod/Prob83_n2_full_fd_kG12_kH6_k12_TopView.png>
-Package pdftex.def Info: figures_mod/Prob83_n2_full_fd_kG12_kH6_k12_TopView.png  used on input line 1830.
+Package pdftex.def Info: figures_mod/Prob83_n2_full_fd_kG12_kH6_k12_TopView.png  used on input line 1831.
 (pdftex.def)             Requested size: 219.08353pt x 178.17867pt.
 <figures_mod/Prob83_n2_full_fd_k12_RateOfConv.png, id=591, 369.2997pt x 307.50885pt>
 File: figures_mod/Prob83_n2_full_fd_k12_RateOfConv.png Graphic file (type png)
 <use figures_mod/Prob83_n2_full_fd_k12_RateOfConv.png>
-Package pdftex.def Info: figures_mod/Prob83_n2_full_fd_k12_RateOfConv.png  used on input line 1830.
+Package pdftex.def Info: figures_mod/Prob83_n2_full_fd_k12_RateOfConv.png  used on input line 1831.
 (pdftex.def)             Requested size: 219.08353pt x 182.42339pt.
  (./tables_mod/Prob83_n1000_fullfd_const_k12_mod.tex)
 
@@ -1756,7 +1756,7 @@ Overfull \vbox (876.08664pt too high) has occurred while \output is active []
 <figures_trunc/Prob83/n1000/FD_all/P83_D1000_k4_constant_Rates.png, id=612, 421.575pt x 316.0608pt>
 File: figures_trunc/Prob83/n1000/FD_all/P83_D1000_k4_constant_Rates.png Graphic file (type png)
 <use figures_trunc/Prob83/n1000/FD_all/P83_D1000_k4_constant_Rates.png>
-Package pdftex.def Info: figures_trunc/Prob83/n1000/FD_all/P83_D1000_k4_constant_Rates.png  used on input line 1858.
+Package pdftex.def Info: figures_trunc/Prob83/n1000/FD_all/P83_D1000_k4_constant_Rates.png  used on input line 1859.
 (pdftex.def)             Requested size: 247.25563pt x 185.37468pt.
  (./tabelle_trunc/table-problem-83-0-fd-all.tex
 ./tabelle_trunc/table-problem-83-0-fd-all.tex:4: Missing $ inserted.
@@ -1786,7 +1786,7 @@ Overfull \vbox (855.55539pt too high) has occurred while \output is active []
 <figures_trunc/Prob83/n1000/FD_all/P83_D1000_k8_constant_Rates.png, id=624, 421.575pt x 316.0608pt>
 File: figures_trunc/Prob83/n1000/FD_all/P83_D1000_k8_constant_Rates.png Graphic file (type png)
 <use figures_trunc/Prob83/n1000/FD_all/P83_D1000_k8_constant_Rates.png>
-Package pdftex.def Info: figures_trunc/Prob83/n1000/FD_all/P83_D1000_k8_constant_Rates.png  used on input line 1869.
+Package pdftex.def Info: figures_trunc/Prob83/n1000/FD_all/P83_D1000_k8_constant_Rates.png  used on input line 1870.
 (pdftex.def)             Requested size: 247.25563pt x 185.37468pt.
  (./tabelle_trunc/table-problem-83-0-fd-all.tex
 ./tabelle_trunc/table-problem-83-0-fd-all.tex:4: Missing $ inserted.
@@ -1816,7 +1816,7 @@ Overfull \vbox (855.55539pt too high) has occurred while \output is active []
 <figures_trunc/Prob83/n1000/FD_all/P83_D1000_k12_constant_Rates.png, id=635, 421.575pt x 316.0608pt>
 File: figures_trunc/Prob83/n1000/FD_all/P83_D1000_k12_constant_Rates.png Graphic file (type png)
 <use figures_trunc/Prob83/n1000/FD_all/P83_D1000_k12_constant_Rates.png>
-Package pdftex.def Info: figures_trunc/Prob83/n1000/FD_all/P83_D1000_k12_constant_Rates.png  used on input line 1880.
+Package pdftex.def Info: figures_trunc/Prob83/n1000/FD_all/P83_D1000_k12_constant_Rates.png  used on input line 1881.
 (pdftex.def)             Requested size: 247.25563pt x 185.37468pt.
 
 
